@@ -1,5 +1,11 @@
 # CalculetteCarbonePlayer
 
+Welcome to the open-source repository of the CalculetteCarbonePlayer!👋
+
+The CalculetteCarbonePlayer helps your calculate your carbon footprint.
+
+[Try it right now](http://www.calculette-carbone.fr/play/micmac#/calc)
+
 ## Project setup
 ```
 npm install
