@@ -15,6 +15,7 @@ npm install
 ```
 npm run serve
 ```
+Then navigate to: http://localhost:8080/player/?code=micmac#/
 
 ### Compiles and minifies for production
 ```
